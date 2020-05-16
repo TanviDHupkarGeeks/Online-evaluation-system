@@ -1,0 +1,79 @@
+﻿.divCenterAlign{
+  position: fixed;
+  top: 25%;
+  left: 50%;
+}
+
+#btnLogin{
+  background-color: dodgerblue;
+  margin-top:2%;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  cursor:pointer;
+}
+
+#btnAdd{
+  background-color: #4CAF50;
+  margin-top:1%;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  cursor:pointer;
+}
+
+#btnSearch{
+  background-color: dodgerblue;
+  margin-left:2%;
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  cursor:pointer;
+}
+
+#btnFind, #btnPrint {
+    background-color: #4CAF50;
+    margin-left: 2%;
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.button {
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  cursor:pointer;
+}
+
+.hidden
+{
+    display:none;
+}
